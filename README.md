@@ -48,7 +48,7 @@ The model is evaluated on a separate test set, and the accuracy is reported. The
 
 To run the code:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `https://github.com/JS12540/IMDb-Sentiment-Analysis-with-TensorFlow.git`
 2. Navigate to the project directory: `cd your-repository`
 3. Open and run the Jupyter notebook or Python script.
 
